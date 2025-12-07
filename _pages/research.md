@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Research"
+title: "Research Highlights"
 permalink: /research/
 author_profile: false
 ---
@@ -48,7 +48,7 @@ author_profile: false
 }
 </style>
 
-
+<br>
 
 <div class="research-item">
   <div class="research-item-image">

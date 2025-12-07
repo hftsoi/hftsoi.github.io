@@ -55,7 +55,6 @@ author_profile: false
 .talk-date {
   white-space: nowrap;
   margin-left: 1rem;
-  color: #555;
 }
 
 /* Second line: title */

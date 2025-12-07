@@ -24,7 +24,7 @@ author_profile: false
 Complete list of publications at [INSPIRE](https://inspirehep.net/authors/1791418). Preprints at [arXiv](https://arxiv.org/a/tsoi_h_1.html).
 
 1. **"jBOT: Learning Jet Features via Self-Distillation Without Labels"**,  
-   **H.F. Tsoi**, D. Rankin,  
+   <u>H.F. Tsoi</u>, D. Rankin,  
    *manuscript in preparation*.
 1. **"Anomaly Detection in the CMS Level-1 Trigger in Run 3"**,  
    CMS Collaboration,  
@@ -33,22 +33,22 @@ Complete list of publications at [INSPIRE](https://inspirehep.net/authors/179141
    ATLAS Collaboration,  
    *manuscript in preparation*.
 1. **"SparsePixels: Efficient Convolution for Sparse Data on FPGAs"**,  
-   **H.F. Tsoi**, D. Rankin, V. Loncar, P. Harris,  
+   <u>H.F. Tsoi</u>, D. Rankin, V. Loncar, P. Harris,  
    *submitted to ACM Trans.Reconf.Tech.Syst.*.
 1. **"hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware"**,  
    J.F. Schulte et al.,  
    *submitted to ACM Trans.Reconf.Tech.Syst.* \[[arXiv:2512.01463](https://arxiv.org/abs/2512.01463)\].
 1. **"SymbolFit: Automatic Parametric Modeling with Symbolic Regression"**,  
-   **H.F. Tsoi**, D. Rankin, C. Caillol, M. Cranmer, S. Dasu, J. Duarte, P. Harris, E. Lipeles, V. Loncar,  
+   <u>H.F. Tsoi</u>, D. Rankin, C. Caillol, M. Cranmer, S. Dasu, J. Duarte, P. Harris, E. Lipeles, V. Loncar,  
    [*Comput Softw Big Sci* 9, 12 (2025)](https://doi.org/10.1007/s41781-025-00140-9) \[[arXiv:2411.09851](https://arxiv.org/abs/2411.09851)\].
 1. **"SymbolNet: Neural Symbolic Regression with Adaptive Dynamic Pruning for Compression"**,  
-   **H.F. Tsoi**, V. Loncar, S. Dasu, P. Harris,  
+   <u>H.F. Tsoi</u>, V. Loncar, S. Dasu, P. Harris,  
    [*Mach. Learn.: Sci. Technol.* 6, 015021 (2025)](https://doi.org/10.1088/2632-2153/adaad8) \[[arXiv:2401.09949](https://arxiv.org/abs/2401.09949)\].
 1. **"Search for Exotic Decays of the Higgs Boson to a Pair of Pseudoscalars in the $$\mu\mu$$bb and $$\tau\tau$$bb Final States"**,  
    CMS Collaboration,  
    [*Eur. Phys. J. C* 84, 493 (2024)](https://link.springer.com/article/10.1140/epjc/s10052-024-12727-4) \[[arXiv:2402.13358](https://arxiv.org/abs/2402.13358)\].
 1. **"Symbolic Regression on FPGAs for Fast Machine Learning Inference"**,  
-   **H.F. Tsoi**, A.A. Pol, V. Loncar, E. Govorkova, M. Cranmer, S. Dasu, P. Elmer, P. Harris, I. Ojalvo, M. Pierini,  
+   <u>H.F. Tsoi</u>, A.A. Pol, V. Loncar, E. Govorkova, M. Cranmer, S. Dasu, P. Elmer, P. Harris, I. Ojalvo, M. Pierini,  
    [*EPJ Web of Conferences* 295, 09036 (2024)](https://doi.org/10.1051/epjconf/202429509036) \[[arXiv:2305.04099](https://arxiv.org/abs/2305.04099)\].
 1. **"The Phase-2 Upgrade of the CMS Data Acquisition and High Level Trigger”**,  
    CMS Collaboration,  
