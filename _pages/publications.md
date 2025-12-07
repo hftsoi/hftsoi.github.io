@@ -21,7 +21,7 @@ author_profile: false
 }
 </style>
 
-Listed below are selected publications to which I was a primary author. I also co-authored papers by CMS and ATLAS as a collaboration member. For complete list see [INSPIRE](https://inspirehep.net/authors/1791418). Preprints at [arXiv](https://arxiv.org/a/tsoi_h_1.html).
+Listed below are selected publications to which I was a primary author. I also co-authored papers by [CMS](https://cms.cern/collaboration) and [ATLAS](https://atlas.cern/) as a collaboration member. For the complete list see [INSPIRE](https://inspirehep.net/authors/1791418). Preprints at [arXiv](https://arxiv.org/a/tsoi_h_1.html).
 
 1. **"jBOT: Learning Jet Features via Self-Distillation Without Labels"**,  
    <u>H.F. Tsoi</u>, D. Rankin,  
