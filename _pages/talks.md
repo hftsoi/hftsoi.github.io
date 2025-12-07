@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Talks"
+title: "Selected Talks"
 permalink: /talks/
 author_profile: false
 ---
