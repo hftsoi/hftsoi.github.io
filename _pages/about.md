@@ -11,7 +11,7 @@ redirect_from:
 <img src="/images/higgs-cover.png" width="800"/>
 
 <p style="text-align: right; font-size: 0.7em; margin-top: -20px;">
-  [Image source: <a href="https://cds.cern.ch/record/1459463">CMS</a> / <a href="https://cds.cern.ch/record/1459500">ATLAS</a>]
+  [Higgs candidate event display. Image source: <a href="https://cds.cern.ch/record/1459463">CMS</a> / <a href="https://cds.cern.ch/record/1459500">ATLAS</a>.]
 </p>
 
 My research focuses on experimental particle physics at the CERN [Large Hadron Collider (LHC)](https://home.cern/science/accelerators/large-hadron-collider) in Switzerland, where I have been a member of the [ATLAS Collaboration](https://atlas.cern) since 2024 and was a member of the [CMS Collaboration](https://cms.cern/collaboration) from 2020-2024.
@@ -29,3 +29,10 @@ My recent work lies in the following areas, with the objective centered on exper
 - Search for exotic Higgs boson decays
 - Trigger system
 
+<br>
+
+<img src="/images/cms-detector.png" width="800"/>
+
+<p style="text-align: right; font-size: 0.7em; margin-top: -20px;">
+  [CMS detector. Image source: <a href="https://cds.cern.ch/record/2777919">CMS</a>.]
+</p>
