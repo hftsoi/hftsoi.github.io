@@ -27,7 +27,7 @@ author_profile: false
 <br>
 
 <p>
-  <a href="/files/HFTsoiCV2025dec.pdf" download>
-    Download CV (PDF)
+  <a href="/files/HFTsoiCV2025dec.pdf" target="_blank">
+    Open CV (PDF)
   </a>
 </p>
