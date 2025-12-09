@@ -23,7 +23,7 @@ author_profile: false
 
 Listed below are selected publications to which I was a primary author. I also co-authored papers by [CMS](https://cms.cern/collaboration) and [ATLAS](https://atlas.cern/) as a collaboration member. For the complete list see [INSPIRE](https://inspirehep.net/authors/1791418). Preprints at [arXiv](https://arxiv.org/a/tsoi_h_1.html).
 
-1. **"jBOT: jBOT: Learning Enhanced Jet Representations via Self-Distilling Pretraining Without Labels"**,  
+1. **"jBOT: Learning Enhanced Jet Representations via Self-Distilling Pretraining Without Labels"**,  
    <u>H.F. Tsoi</u>, D. Rankin,  
    *manuscript in preparation*.
 1. **"Anomaly Detection in the CMS Level-1 Trigger in Run 3"**,  
@@ -34,7 +34,7 @@ Listed below are selected publications to which I was a primary author. I also c
    *manuscript in preparation*.
 1. **"SparsePixels: Efficient Convolution for Sparse Data on FPGAs"**,  
    <u>H.F. Tsoi</u>, D. Rankin, V. Loncar, P. Harris,  
-   *submitted to ACM Trans.Reconf.Tech.Syst.*.
+   *submitted to ACM Trans.Reconf.Tech.Syst.* \[[arXiv:2512.06208](https://arxiv.org/abs/2512.06208)\].
 1. **"hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware"**,  
    J.F. Schulte et al.,  
    *submitted to ACM Trans.Reconf.Tech.Syst.* \[[arXiv:2512.01463](https://arxiv.org/abs/2512.01463)\].

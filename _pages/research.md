@@ -68,7 +68,7 @@ author_profile: false
       For easy adoption, we have developed a library to support building sparse CNNs with quantization-aware training, as well as an HLS implementation for FPGA deployment.
     </p>
     <p>
-      <strong>Paper:</strong> <a href="LINK_TO_PAPER">arXiv:XXXX.XXXXX</a>
+      <strong>Paper:</strong> <a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>
       <strong>Code:</strong> <a href="https://github.com/hftsoi/sparse-pixels">https://github.com/hftsoi/sparse-pixels</a>
     </p>
   </div>
