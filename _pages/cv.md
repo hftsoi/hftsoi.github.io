@@ -28,6 +28,6 @@ author_profile: false
 
 <p>
   <a href="/files/HFTsoiCV2025dec.pdf" target="_blank">
-    Open CV (PDF)
+    CV [updated Dec 2025]
   </a>
 </p>
