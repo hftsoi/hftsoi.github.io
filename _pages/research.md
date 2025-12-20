@@ -129,6 +129,7 @@ author_profile: false
     </p>
     <p>
       <strong>Paper:</strong> <a href="https://arxiv.org/abs/2402.13358">arXiv:2402.13358</a>
+      <strong>HEPData:</strong> <a href="https://www.hepdata.net/record/ins2760544">10.17182/hepdata.145999</a>
     </p>
   </div>
 </div>
