@@ -24,7 +24,7 @@ author_profile: false
   display: flex;
   align-items: flex-start;
   gap: 1.0em;
-  margin-bottom: 4.0rem;
+  margin-bottom: 6.0rem;
 }
 
 .research-item img {
@@ -53,11 +53,16 @@ author_profile: false
 <div class="research-item">
   <div class="research-item-image">
     <img src="/images/sparsepixels.png">
+
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/cnn_standard.gif" style="width: 272px; height: auto; display: inline-block;">
+      <img src="/images/cnn_sparse.gif" style="width: 272px; height: auto; display: inline-block;">
+    </div>
   </div>
   <div class="research-item-text">
     <h3>SparsePixels: Efficient Convolution for Sparse Data on FPGAs</h3>
     <p>
-      Inference of standard convolutional neural networks (CNNs) on FPGAs often incurs high latency and a long initiation interval due to the deep nested loops required to densely convolve every input pixel regardless of its feature value. However, input features can be spatially sparse in some image data, where semantic information may occupy only a small fraction of the pixels and most computation would be wasted on empty regions. In this work, we introduce SparsePixels, a framework that implements sparse convolution on FPGAs by selectively retaining and computing on a small subset of active pixels while ignoring the rest. We show that, for identifying neutrino interactions in naturally sparse LArTPC images with 4k pixels, a standard CNN with a compact size of 4k parameters incurs an inference latency of 48.665 \(\mu\)s on an FPGA, whereas a sparse CNN of the same base architecture, computing on less than 1% of the input pixels, achieves a \(\times 73\) speedup to 0.665 \(\mu\)s with resource utilization well within on-chip budgets, trading only a small percent-level performance loss. This work aims to benefit future algorithm development for efficient data readout in modern experiments with latency requirements of microseconds or below.
+      Inference of standard convolutional neural networks (CNNs) on FPGAs often incurs high latency and a long initiation interval due to the deep nested loops required to densely convolve every input pixel regardless of its feature value. However, input features can be spatially sparse in some image data, where semantic information may occupy only a small fraction of the pixels and most computation would be wasted on empty regions. In this work, we introduce SparsePixels, a framework that implements sparse convolution on FPGAs by selectively retaining and computing on a small subset of active pixels while ignoring the rest. We show that, for identifying neutrino interactions in naturally sparse LArTPC images with 4k pixels, a standard CNN with a compact size of 4k parameters incurs an inference latency of 48.665 \(\mu\)s on an FPGA, whereas a sparse CNN of the same base architecture, computing on less than 1% of the input pixels, achieves a \(\times\)73 speedup to 0.665 \(\mu\)s with resource utilization well within on-chip budgets, trading only a small percent-level performance loss. This work aims to benefit future algorithm development for efficient data readout in modern experiments with latency requirements of microseconds or below.
     </p>
     <p>
       <strong>Paper:</strong> <a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>
@@ -70,6 +75,10 @@ author_profile: false
 <div class="research-item">
   <div class="research-item-image">
     <img src="/images/symbolfit.gif">
+
+    <div style="margin-top: 5px;">
+      <img src="/images/dijet_blinded.png" style="width: 450px; height: auto; display: inline-block;">
+    </div>
   </div>
   <div class="research-item-text">
     <h3>SymbolFit: Automatic Parametric Modeling with Symbolic Regression</h3>
@@ -91,7 +100,10 @@ author_profile: false
 
 <div class="research-item">
   <div class="research-item-image">
-    <img src="/images/cicada.png">
+    <img src="/images/cicada_logo.png">
+    <div style="margin-top: 5px;">
+      <img src="/images/cicada.png">
+    </div>
   </div>
   <div class="research-item-text">
     <h3>CICADA: Anomaly Detection for New Physics Searches at the CMS Level-1 Trigger</h3>
@@ -100,6 +112,7 @@ author_profile: false
     </p>
     <p>
       <strong>CMS Detector Performance Summaries:</strong> <a href="https://cds.cern.ch/record/2879816">CERN-CMS-DP-2023-086</a>
+      <strong>Home:</strong> <a href="https://cicada.web.cern.ch">CICADA</a>
     </p>
   </div>
 </div>
@@ -123,7 +136,15 @@ author_profile: false
 
 <div class="research-item">
   <div class="research-item-image">
-    <img src="/images/symbolnet.png">
+    <div style="display: flex; gap: 5px;">
+      <img src="/images/symbolnet_training1.png" style="width: 272px; height: auto;">
+      <img src="/images/symbolnet_training2.png" style="width: 272px; height: auto;">
+    </div>
+
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/symbolnet_training3.png" style="width: 272px; height: auto;">
+      <img src="/images/symbolnet.png" style="width: 272px; height: auto;">
+    </div>
   </div>
   <div class="research-item-text">
     <h3>SymbolNet: Neural Symbolic Regression with Adaptive Dynamic Pruning for Compression</h3>
@@ -148,7 +169,15 @@ author_profile: false
 
 <div class="research-item">
   <div class="research-item-image">
-    <img src="/images/hls4sr.png">
+    <div style="display: flex; gap: 5px;">
+      <img src="/images/hls4sr_acc.png" style="width: 272px; height: auto;">
+      <img src="/images/hls4sr_lat.png" style="width: 272px; height: auto;">
+    </div>
+
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/hls4sr_dsp.png" style="width: 272px; height: auto;">
+      <img src="/images/hls4sr_lut.png" style="width: 272px; height: auto;">
+    </div>
   </div>
   <div class="research-item-text">
     <h3>Symbolic Regression on FPGAs for Fast Machine Learning Inference</h3>
