@@ -6,9 +6,9 @@ author_profile: false
 ---
 
 <style>
-@media (min-width: 1024px) {
+@media (min-width: 900px) {
   #main {
-    max-width: 1400px;
+    max-width: 1100px;
   }
 
   .page {
