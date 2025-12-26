@@ -8,21 +8,7 @@ author_profile: false
 <style>
 @media (min-width: 900px) {
   #main {
-    max-width: 1100px;
-  }
-
-  .page {
-    width: 100% !important;
-    margin-left: 0 !important;
-    margin-right: 0 !important;
-    padding-left: 0 !important;
-    padding-right: 0 !important;
-  }
-}
-
-@media (min-width: 1024px) {
-  #main {
-    max-width: 1400px;
+    max-width: 1000px;
   }
 
   .page {
