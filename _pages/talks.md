@@ -76,6 +76,21 @@ author_profile: false
     </div>
   </li>
 
+  <ol class="talk-list">
+  <li>
+    <div class="talk-header">
+      <span class="talk-left">
+        <strong>2024 CMS Thesis Award Ceremony Talk (CMS Week)</strong> — CERN, Switzerland
+      </span>
+      <span class="talk-date">Oct 2025</span>
+    </div>
+    <div class="talk-title">
+      <a href="https://indico.cern.ch/event/1595647/">
+        Search for Exotic Higgs Boson Decays with CMS and Fast Machine Learning Solutions for the LHC
+      </a>
+    </div>
+  </li>
+
   <li>
     <div class="talk-header">
       <span class="talk-left">
