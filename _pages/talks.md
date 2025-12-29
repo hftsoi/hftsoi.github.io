@@ -76,7 +76,6 @@ author_profile: false
     </div>
   </li>
 
-  <ol class="talk-list">
   <li>
     <div class="talk-header">
       <span class="talk-left">
