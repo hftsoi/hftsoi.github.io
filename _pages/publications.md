@@ -24,7 +24,7 @@ author_profile: false
 
 Listed below are selected publications to which I was a primary author. I also co-authored papers by [CMS](https://cms.cern/collaboration) and [ATLAS](https://atlas.cern/) as a collaboration member. For the complete list see [INSPIRE](https://inspirehep.net/authors/1791418). Preprints at [arXiv](https://arxiv.org/a/tsoi_h_1.html).
 
-1. **jBOT: Semantic Jet Representation Clustering Emerges from Self-Supervised Pre-Training**  
+1. **jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation**  
    <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span>  
    *manuscript in preparation*
 
@@ -44,7 +44,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span>  
    *submitted to ACM Trans.Reconf.Tech.Syst.* \[[arXiv:2512.06208](https://arxiv.org/abs/2512.06208)\]
 
-1. **hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware**,  
+1. **hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware**  
    <span class="grey">Jan-Frederik Schulte et al.</span>  
    *submitted to ACM Trans.Reconf.Tech.Syst.* \[[arXiv:2512.01463](https://arxiv.org/abs/2512.01463)\]
 
@@ -56,7 +56,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <u>Ho Fung Tsoi</u><span class="grey">, Vladimir Loncar, Sridhara Dasu, Philip Harris</span>  
    [*Mach. Learn.: Sci. Technol.* 6, 015021 (2025)](https://iopscience.iop.org/article/10.1088/2632-2153/adaad8/pdf) \[[arXiv:2401.09949](https://arxiv.org/abs/2401.09949)\]
 
-1. **Search for Exotic Decays of the Higgs Boson to a Pair of Pseudoscalars in the $$\mu\mu$$bb and $$\tau\tau$$bb Final States**,  
+1. **Search for Exotic Decays of the Higgs Boson to a Pair of Pseudoscalars in the $$\mu\mu$$bb and $$\tau\tau$$bb Final States**  
    <span class="grey">CMS Collaboration</span>  
    [*Eur. Phys. J. C* 84, 493 (2024)](https://inspirehep.net/files/17f2d3ed26294ac9239267f55b97b515) \[[arXiv:2402.13358](https://arxiv.org/abs/2402.13358)\]
 
