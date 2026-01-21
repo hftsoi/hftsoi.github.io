@@ -63,7 +63,7 @@ author_profile: false
       Self-supervised learning is a powerful pre-training method for learning feature representations without labels, which often capture generic underlying semantics from the data and can later be fine-tuned for downstream tasks. In this work, we introduce jBOT, a pre-training method based on self-distillation for jet data from the CERN Large Hadron Collider, which combines local particle-level distillation with global jet-level distillation to learn jet representations that support downstream tasks such as anomaly detection and classification. We observe that pre-training on unlabeled jets leads to emergent semantic class clustering in the representation space. The clustering in the frozen embedding, when pre-trained on background jets only, enables anomaly detection via simple distance-based metrics, and the learned embedding can be fine-tuned for classification with improved performance compared to supervised models trained from scratch.
     </p>
     <p>
-      <strong>Paper:</strong> <a href="https://arxiv.org/abs/xxxx.xxxxx">arXiv:xxxx.xxxxx</a>
+      <strong>Paper:</strong> <a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>
       <strong>Code:</strong> <a href="https://github.com/hftsoi/jbot">https://github.com/hftsoi/jbot</a>
     </p>
   </div>

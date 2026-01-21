@@ -26,7 +26,7 @@ Listed below are selected publications to which I was a primary author. I also c
 
 1. **jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation**  
    <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span>  
-   *manuscript in preparation*
+   *manuscript submitted* \[[arXiv:2601.11719](https://arxiv.org/abs/2601.11719)\]
 
 1. **Neuromorphic Cluster Counting**  
    <span class="grey">Kam Wai Lai,</span> <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span>  
