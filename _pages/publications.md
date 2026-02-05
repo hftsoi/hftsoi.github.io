@@ -41,7 +41,6 @@ author_profile: false
 .pub-title .year {
   white-space: nowrap;
   font-weight: 320;
-  color: #002286;
 }
 </style>
 
@@ -54,7 +53,16 @@ Listed below are selected publications to which I was a primary author. I also c
          <span class="year">2026</span>
       </div>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
-      <em>manuscript submitted</em> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
+      <em>submitted to SciPost Phys.</em> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
+   </li>
+
+   <li>
+      <div class="pub-title">
+         <strong>SparsePixels++: Scalable Sparse Convolution on FPGAs</strong><br>
+         <span class="year">2026</span>
+      </div>
+      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span><br>
+      <em>manuscript in preparation</em>
    </li>
 
    <li>
