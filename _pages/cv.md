@@ -22,12 +22,12 @@ author_profile: false
 </style>
 
 
-<embed src="/files/HFTsoiCV2026Feb.pdf" type="application/pdf" width="70%" height="700px" />
+<embed src="/files/HoFungTsoiCV.pdf" type="application/pdf" width="70%" height="700px" />
 
 <br>
 
 <p>
-  <a href="/files/HFTsoiCV2026Feb.pdf" target="_blank">
+  <a href="/files/HoFungTsoiCV.pdf" target="_blank">
     CV [updated Feb 2026]
   </a>
 </p>

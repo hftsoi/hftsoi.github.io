@@ -61,7 +61,7 @@ author_profile: false
 </style>
 
 
-<ol class="talk-list">
+<ol class="talk-list" reversed>
   <li>
     <div class="talk-header">
       <span class="talk-left">
@@ -109,7 +109,7 @@ author_profile: false
       <span class="talk-left">
         <strong>High-energy physics seminar</strong> — UPenn; U.Washington; Fermilab
       </span>
-      <span class="talk-date">Mar 2024 &amp; Nov 2023</span>
+      <span class="talk-date">2023, 2024</span>
     </div>
     <div class="talk-title">
       <a href="https://live-sas-physics.pantheon.sas.upenn.edu/events/high-energy-theory-seminar-search-exotic-higgs-boson-decays-cms-and-fast-machine-learning">
