@@ -65,6 +65,20 @@ author_profile: false
   <li>
     <div class="talk-header">
       <span class="talk-left">
+        <strong>TREASURE: Tokenizing HEP Collider Data for AI Discovery</strong> — BNL, USA
+      </span>
+      <span class="talk-date">Apr 2026</span>
+    </div>
+    <div class="talk-title">
+      <a href="https://indico.global/event/16443/contributions/150416/">
+        Self-Supervised Learning: Machine Can Learn a Lot by Just Observing
+      </a>
+    </div>
+  </li>
+
+  <li>
+    <div class="talk-header">
+      <span class="talk-left">
         <strong>Coordinating Panel on Advanced Detectors (CPAD)</strong> — UPenn, USA
       </span>
       <span class="talk-date">Oct 2025</span>

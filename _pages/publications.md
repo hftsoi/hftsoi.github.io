@@ -107,7 +107,7 @@ Listed below are selected publications to which I was a primary author. I also c
          <span class="year">2025</span>
       </div>
       <span class="grey">Jan-Frederik Schulte et al.</span><br>
-      <em>submitted to ACM Trans.Reconf.Tech.Syst.</em> [<a href="https://arxiv.org/abs/2512.01463">arXiv:2512.01463</a>]
+      <em>to appear in ACM Trans.Reconf.Tech.Syst.</em> [<a href="https://arxiv.org/abs/2512.01463">arXiv:2512.01463</a>]
    </li>
 
    <li>
