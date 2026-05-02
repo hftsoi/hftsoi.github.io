@@ -23,8 +23,9 @@ I received my PhD in Physics from U.Wisconsin-Madison in 2024, where I worked in
 My recent work lies in the following areas, with the objective centered on experimental particle physics.
 - Self-supervised learning pretraining methods
 - Low-latency (sub-microsecond) ML algorithms on FPGAs
-- Neuromorphic computing with spiking neural networks
+- Search for supersymmetric particles in compressed mass spectra
 - Anomaly detection
+- Neuromorphic computing with spiking neural networks
 - Symbolic regression
 - Search for exotic Higgs boson decays
 - Trigger system
