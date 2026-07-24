@@ -28,6 +28,6 @@ author_profile: false
 
 <p>
   <a href="/files/HoFungTsoiCV.pdf" target="_blank">
-    CV [updated June 2026]
+    CV [updated July 2026]
   </a>
 </p>

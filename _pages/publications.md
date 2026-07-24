@@ -54,11 +54,17 @@ Listed below are selected publications to which I was a primary author. I also c
 -->
 
 <div class="pub-year">2026</div>
-<ol class="rev-ol" reversed start="12" markdown="1">
+<ol class="rev-ol" reversed start="13" markdown="1">
    <li>
       <strong>jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
-      <em>submitted to SciPost Phys.</em> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
+      <em>accepted to SciPost Phys.</em> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
+   </li>
+
+   <li>
+      <strong>Machine Can Automatically Discover Parametric Functions to Model HEP Data</strong><br>
+      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles</span><br>
+      <em>Proceedings of ICHEP 2026</em> [<a href="https://arxiv.org/abs/2607.19750">arXiv:2607.19750</a>]
    </li>
 
    <li>

@@ -65,6 +65,20 @@ author_profile: false
   <li>
     <div class="talk-header">
       <span class="talk-left">
+        <strong>International Conference on High Energy Physics (ICHEP)</strong> — Natal, Brazil
+      </span>
+      <span class="talk-date">Jul 2026</span>
+    </div>
+    <div class="talk-title">
+      <a href="https://indico.cern.ch/event/1522800/contributions/6981141/">
+        Machine Can Automatically Discover Parametric Functions to Model HEP Data
+      </a>
+    </div>
+  </li>
+
+  <li>
+    <div class="talk-header">
+      <span class="talk-left">
         <strong>TREASURE: Tokenizing HEP Collider Data for AI Discovery</strong> — BNL, USA
       </span>
       <span class="talk-date">Apr 2026</span>

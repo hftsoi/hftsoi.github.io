@@ -52,6 +52,23 @@ author_profile: false
 
 <div class="research-item">
   <div class="research-item-image">
+    <img src="/images/chi2_distribution.png">
+  </div>
+  <div class="research-item-text">
+    <h3>Machine Can Automatically Discover Parametric Functions to Model HEP Data</h3>
+    <p>
+      In HEP data analyses, finding an adequate function to model binned data has largely relied on a manual process: guess a functional form by intuition, fit, examine, then repeat until successful. We show that this iterative process can be automated by a machine using symbolic regression, which performs a data-driven search over function space without requiring prior knowledge of what an adequate function should look like. We present the SymbolFit package, which pairs symbolic regression with uncertainty modeling to target HEP analysis use cases, and demonstrate it on the CMS and ATLAS Run 2 dijet spectra: 560 independent seeded runs across seven simple fit configurations generated over 1000 functions fitting the spectra with \(\chi^2/\text{NDF}\approx 1\), and 111 of the runs rediscovered the very dijet and UA2 functions used in published dijet searches.
+    </p>
+    <p>
+      <strong>Paper:</strong> <a href="https://arxiv.org/abs/2607.19750">arXiv:2607.19750</a>
+      <strong>Code:</strong> <a href="https://github.com/hftsoi/symbolfit">https://github.com/hftsoi/symbolfit</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="research-item">
+  <div class="research-item-image">
     <img src="/images/jbot.png">
     <div style="margin-top: 5px;">
       <img src="/images/jbot_tsne.png">
