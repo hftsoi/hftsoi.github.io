@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Selected Talks"
+title: "Selected Conference, Workshop, Seminar Presentations"
 permalink: /talks/
 author_profile: false
 ---

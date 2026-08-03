@@ -80,9 +80,9 @@ Listed below are selected publications to which I was a primary author. I also c
    </li>
 
    <li>
-      <strong>Anomaly Detection in the CMS Level-1 Trigger in Run 3</strong><br>
+      <strong>Unsupervised Anomaly Detection for Real-Time Data Acquisition in the CMS Experiment at the Large Hadron Collider</strong><br>
       <span class="grey">CMS Collaboration</span><br>
-      <em>manuscript in preparation</em>
+      <em>manuscript in preparation</em> [<a href="https://cds.cern.ch/record/2967864?ln=en">CMS-PAS-MLG-25-001</a>]
    </li>
 
    <li>

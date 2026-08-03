@@ -53,6 +53,11 @@ author_profile: false
 <div class="research-item">
   <div class="research-item-image">
     <img src="/images/chi2_distribution.png">
+
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/spectrum_cms.png" style="width: 272px; height: auto; display: inline-block;">
+      <img src="/images/spectrum_atlas.png" style="width: 272px; height: auto; display: inline-block;">
+    </div>
   </div>
   <div class="research-item-text">
     <h3>Machine Can Automatically Discover Parametric Functions to Model HEP Data</h3>
