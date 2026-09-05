@@ -65,6 +65,25 @@ author_profile: false
   <li>
     <div class="talk-header">
       <span class="talk-left">
+        <strong>Fast Machine Learning for Science Conference (FastML)</strong> — UCSD, USA
+      </span>
+      <span class="talk-date">Sep 2026</span>
+    </div>
+    <div class="talk-title">
+      <a href="https://indico.cern.ch/event/1654479/contributions/7189011/">
+        SpikePID: Neuromorphic Cluster Counting in Future Drift Chambers
+      </a>
+    </div>
+    <div class="talk-title">
+      <a href="https://indico.cern.ch/event/1654479/contributions/7189047/">
+        SparsePixels++: Scalable Sparse Convolution on FPGAs
+      </a>
+    </div>
+  </li>
+
+  <li>
+    <div class="talk-header">
+      <span class="talk-left">
         <strong>International Conference on High Energy Physics (ICHEP)</strong> — Natal, Brazil
       </span>
       <span class="talk-date">Jul 2026</span>

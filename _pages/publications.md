@@ -58,7 +58,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <li>
       <strong>jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
-      <em>accepted to SciPost Phys.</em> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
+      <a href="https://scipost.org/10.21468/SciPostPhys.21.3.053"><em>SciPost Phys.</em> 21, 053 (2026)</a> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
    </li>
 
    <li>
@@ -97,7 +97,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <li>
       <strong>SparsePixels: Efficient Convolution for Sparse Data on FPGAs</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span><br>
-      <em>submitted to Mach. Learn.: Sci. Technol.</em> [<a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>]
+      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ae9fb5"><em>accepted to Mach. Learn.: Sci. Technol.</em></a> [<a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>]
    </li>
 
    <li>
@@ -112,19 +112,19 @@ Listed below are selected publications to which I was a primary author. I also c
    <li>
       <strong>SymbolFit: Automatic Parametric Modeling with Symbolic Regression</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles, Vladimir Loncar</span><br>
-      <a href="https://inspirehep.net/files/f21a23c97dd26cdfd3bcbe9d9f995419"><em>Comput Softw Big Sci</em> 9, 12 (2025)</a> [<a href="https://arxiv.org/abs/2411.09851">arXiv:2411.09851</a>]
+      <a href="https://link.springer.com/article/10.1007/s41781-025-00140-9"><em>Comput Softw Big Sci</em> 9, 12 (2025)</a> [<a href="https://arxiv.org/abs/2411.09851">arXiv:2411.09851</a>]
    </li>
 
    <li>
       <strong>SymbolNet: Neural Symbolic Regression with Adaptive Dynamic Pruning for Compression</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Vladimir Loncar, Sridhara Dasu, Philip Harris</span><br>
-      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/adaad8/pdf"><em>Mach. Learn.: Sci. Technol.</em> 6, 015021 (2025)</a> [<a href="https://arxiv.org/abs/2401.09949">arXiv:2401.09949</a>]
+      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/adaad8"><em>Mach. Learn.: Sci. Technol.</em> 6, 015021 (2025)</a> [<a href="https://arxiv.org/abs/2401.09949">arXiv:2401.09949</a>]
    </li>
 
    <li>
       <strong>Search for Exotic Decays of the Higgs Boson to a Pair of Pseudoscalars in the \(\mu\mu\)bb and \(\tau\tau\)bb Final States</strong><br>
       <span class="grey">CMS Collaboration</span><br>
-      <a href="https://inspirehep.net/files/17f2d3ed26294ac9239267f55b97b515"><em>Eur. Phys. J. C</em> 84, 493 (2024)</a> [<a href="https://arxiv.org/abs/2402.13358">arXiv:2402.13358</a>]
+      <a href="https://link.springer.com/article/10.1140/epjc/s10052-024-12727-4"><em>Eur. Phys. J. C</em> 84, 493 (2024)</a> [<a href="https://arxiv.org/abs/2402.13358">arXiv:2402.13358</a>]
    </li>
 </ol>
 
@@ -133,7 +133,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <li>
       <strong>Symbolic Regression on FPGAs for Fast Machine Learning Inference</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Adrian Alan Pol, Vladimir Loncar, Ekaterina Govorkova, Miles Cranmer, Sridhara Dasu, Peter Elmer, Philip Harris, Isobel Ojalvo, Maurizio Pierini</span><br>
-      <a href="https://www.epj-conferences.org/articles/epjconf/pdf/2024/05/epjconf_chep2024_09036.pdf"><em>EPJ Web of Conferences</em> 295, 09036 (2024)</a> [<a href="https://arxiv.org/abs/2305.04099">arXiv:2305.04099</a>]
+      <a href="https://doi.org/10.1051/epjconf/202429509036"><em>EPJ Web of Conferences</em> 295, 09036 (2024)</a> [<a href="https://arxiv.org/abs/2305.04099">arXiv:2305.04099</a>]
    </li>
 </ol>
 
