@@ -52,6 +52,45 @@ author_profile: false
 
 <div class="research-item">
   <div class="research-item-image">
+    <img src="/images/ssl-emd1.png">
+    <div style="margin-top: 5px;">
+      <img src="/images/ssl-emd2.png">
+    </div>
+  </div>
+  <div class="research-item-text">
+    <h3>Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC</h3>
+    <p>
+      Many self-supervised methods for training foundation models at the Large Hadron Collider (LHC) rely on data augmentations to encourage the model to embed events into a representation space invariant to certain physical or detector symmetries. A common challenge arises from the large freedom in choosing a proper set of augmentations on which downstream performance depends. The implementation of augmentations involves either modifying existing events, potentially breaking the event fidelity, or simulating more event variants, which is computationally intensive. In this work, we present a data-driven method of pairing events by their similarity via the energy mover's distance (EMD), which measures how similar two events are in terms of the work required to transform one into the other. With this approach, distinct events are sampled and matched by their similarity to serve as views for learning invariance, keeping the physics content of each event intact without handcrafted distortions. We demonstrate this augmentation-free pairing method by pre-training on QCD jets via self-distillation and show that it can yield semantic jet embeddings with downstream discrimination power comparable to or better than an augmentation-based baseline.
+    </p>
+    <p>
+      <strong>Paper:</strong> <a href="https://arxiv.org/abs/2609.17738">arXiv:2609.17738</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="research-item">
+  <div class="research-item-image">
+    <img src="/images/ssl-mass1.png">
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/ssl-mass2.png" style="width: 272px; height: auto; display: inline-block;">
+      <img src="/images/ssl-mass3.png" style="width: 272px; height: auto; display: inline-block;">
+    </div>
+  </div>
+  <div class="research-item-text">
+    <h3>Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays</h3>
+    <p>
+      Reconstructing the mass of a heavy resonance from its decay products with missing energy is one of the central tasks that directly determine the sensitivity in new physics searches at collider experiments. Supervised learning approaches to this problem often struggle to generalize well due to the presence of various systematic uncertainties and distribution shifts. Exhausting all possible variations in the labeled data can be very compute-intensive, while a failure of the model to generalize can corrupt the reconstructed resonance widths that are critical in peak-hunting analyses. In this work, following the foundation model paradigm, we use a self-supervised approach to pre-train a transformer encoder with VICReg to learn an embedding invariant to various corruptions, then fine-tune it for mass regression on a heavy resonance with masses ranging from 2.5 to 6.5 TeV and a SUSY-like cascade decay into an eleven-body final state. We show that the pre-trained model reconstructs sharper resonance peaks and has a more stable performance under various realistic corruptions, compared to a supervised model of the same architecture trained on the same augmented data from scratch.
+    </p>
+    <p>
+      <strong>Paper:</strong> <a href="https://arxiv.org/abs/2609.17726">arXiv:2609.17726</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="research-item">
+  <div class="research-item-image">
     <img src="/images/chi2_distribution.png">
 
     <div style="display: flex; gap: 5px; margin-top: 5px;">

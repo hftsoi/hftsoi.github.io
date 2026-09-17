@@ -56,6 +56,18 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2026</div>
 <ol class="rev-ol" reversed start="13" markdown="1">
    <li>
+      <strong>Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC</strong><br>
+      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
+      <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2609.17738">arXiv:2609.17738</a>]
+   </li>
+
+   <li>
+      <strong>Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays</strong><br>
+      <u>Ho Fung Tsoi</u><span class="grey">, Alex Yang, Luis Felipe Gutierrez Zagazeta, Shion Chen, Dylan Rankin</span><br>
+      <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2609.17726">arXiv:2609.17726</a>]
+   </li>
+
+   <li>
       <strong>jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
       <a href="https://scipost.org/10.21468/SciPostPhys.21.3.053"><em>SciPost Phys.</em> 21, 053 (2026)</a> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
