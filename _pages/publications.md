@@ -86,7 +86,7 @@ Listed below are selected publications to which I was a primary author. I also c
    </li>
 
    <li>
-      <strong>SpikePID: Neuromorphic Cluster Counting in Future Drift Chambers</strong><br>
+      <strong>SpikePID: Neuromorphic Cluster Counting for \(dN/dx\) in Future Drift Chambers</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, <span class="grey">Kam Wai Lai,</span>, Dylan Rankin</span><br>
       <em>manuscript in preparation</em>
    </li>
