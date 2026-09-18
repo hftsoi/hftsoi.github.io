@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Ho Fung Tsoi"
 title_separator          : "-"
 name                     : "Ho Fung Tsoi"
-description              : "Ho Fung Tsoi"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Ho Fung Tsoi is a postdoc researcher at UPenn working on experimental particle physics and machine learning at the CERN LHC"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://hftsoi.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,13 +23,13 @@ repository               : "hftsoi/hftsoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "hofungtsoi.png"
   name             : "Ho Fung Tsoi"
   pronouns         : # example: "she/her"  
   bio              : "AI | Experimental Particle Physics"
   location         : 
   employer         : "University of Pennsylvania"
-  uri              : # URL
+  uri              : "https://hftsoi.github.io"
   email            : "ho.fung.tsoi@cern.ch" 
 
   # Academic websites
@@ -140,9 +140,15 @@ og_description           :  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Ho Fung Tsoi"
+  links: 
+    - "https://orcid.org/0000-0002-2550-2184"
+    - "https://scholar.google.com/citations?user=d2V8WGAAAAAJ"
+    - "https://inspirehep.net/authors/1791418"
+    - "https://arxiv.org/a/tsoi_h_1.html"
+    - "https://github.com/hftsoi"
+    - "https://www.linkedin.com/in/ho-fung-tsoi-692b54194"
 
 
 # Analytics

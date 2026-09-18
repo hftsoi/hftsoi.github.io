@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "Curriculum Vitae"
+description: "Curriculum vitae of Ho Fung Tsoi"
+seo_title: "Ho Fung Tsoi | CV"
 permalink: /cv/
 author_profile: false
 ---

@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Research Highlights"
+seo_title: "Ho Fung Tsoi | Research"
 permalink: /research/
 author_profile: false
 ---

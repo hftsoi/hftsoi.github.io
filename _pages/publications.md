@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Selected Publications"
+seo_title: "Ho Fung Tsoi | Publications"
 permalink: /publications/
 author_profile: false
 ---
@@ -81,7 +82,7 @@ Listed below are selected publications to which I was a primary author. I also c
 
    <li>
       <strong>SparsePixels++: Scalable Sparse Convolution on FPGAs</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span><br>
+      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Philip Harris</span><br>
       <em>manuscript in preparation</em>
    </li>
 

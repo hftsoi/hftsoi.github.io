@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Selected Conference, Workshop, Seminar Presentations"
+seo_title: "Ho Fung Tsoi | Talks"
 permalink: /talks/
 author_profile: false
 ---
