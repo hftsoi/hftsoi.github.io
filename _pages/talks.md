@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Selected Conference, Workshop, Seminar Presentations"
+title: "Selected Presentations"
 description: "Ho Fung Tsoi's talks"
 seo_title: "Ho Fung Tsoi · Talks"
 permalink: /talks/
