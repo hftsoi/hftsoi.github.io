@@ -23,7 +23,7 @@ repository               : "hftsoi/hftsoi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "hofungtsoi.png"
+  avatar           : "ho-fung-tsoi.png"
   name             : "Ho Fung Tsoi"
   pronouns         : # example: "she/her"  
   bio              : "AI | Experimental Particle Physics"
@@ -135,8 +135,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 :  "/images/ho-fung-tsoi.png"
+og_description           :  "Ho Fung Tsoi is a postdoc at the UPenn working on machine learning for experimental particle physics at the CERN LHC."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

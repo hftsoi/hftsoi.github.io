@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Selected Publications"
-seo_title: "Ho Fung Tsoi | Publications"
+description: "Ho Fung Tsoi's publications"
+seo_title: "Ho Fung Tsoi · Publications"
 permalink: /publications/
 author_profile: false
 ---

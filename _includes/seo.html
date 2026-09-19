@@ -93,11 +93,14 @@
 {% if site.social %}
   <script type="application/ld+json">
     {
-      "@context" : "http://schema.org",
-      "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
-      "name" : "{{ site.social.name | default: site.name }}",
-      "url" : {{ seo_url | jsonify }},
-      "sameAs" : {{ site.social.links | jsonify }}
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": {{ site.social.name | default: site.name | jsonify }},
+      "alternateName": ["Ho-Fung Tsoi", "H. F. Tsoi"],
+      "url": {{ seo_url | jsonify }},
+      "image": "{{ seo_url }}/images/ho-fung-tsoi.png",
+      "identifier": {"@type": "PropertyValue", "propertyID": "ORCID", "value": "0000-0002-2550-2184"},
+      "sameAs": {{ site.social.links | jsonify }}
     }
   </script>
 {% endif %}
