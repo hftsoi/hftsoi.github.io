@@ -135,8 +135,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "/images/ho-fung-tsoi.png"
-og_description           :  "Ho Fung Tsoi is a postdoc at the UPenn working on machine learning for experimental particle physics at the CERN LHC."
+og_image                 :
+og_description           :  "Ho Fung Tsoi is a postdoc researcher at UPenn working on machine learning for experimental particle physics at the CERN LHC."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
