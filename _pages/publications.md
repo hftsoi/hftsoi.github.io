@@ -56,7 +56,7 @@ Listed below are selected publications to which I was a primary author. I also c
 -->
 
 <div class="pub-year">2026</div>
-<ol class="rev-ol" reversed start="13" markdown="1">
+<ol class="rev-ol" reversed start="15" markdown="1">
    <li>
       <strong>Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
