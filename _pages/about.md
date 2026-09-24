@@ -25,7 +25,7 @@ I received my PhD in Physics from U.Wisconsin-Madison in 2024, working in Sridha
 My thesis, [*"Search for exotic Higgs boson decays with CMS and fast machine learning solutions for the LHC"*](https://repository.cern/records/tgfn2-52h79), was selected for the [CMS Thesis Award](https://cms.cern/news/cms-phd-thesis-award-winners-2024) from CERN.
 
 My recent work include the following areas, with the same objective centered on experimental particle physics.
-- Self-supervised learning pretraining methods
+- Self-supervised learning, foundation models
 - Low-latency (sub-microsecond) ML algorithms on FPGAs
 - Search for supersymmetric particles in compressed mass spectra
 - Anomaly detection
