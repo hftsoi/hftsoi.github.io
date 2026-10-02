@@ -111,7 +111,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <li>
       <strong>SparsePixels: Efficient Convolution for Sparse Data on FPGAs</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span><br>
-      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ae9fb5"><em>accepted to Mach. Learn.: Sci. Technol.</em></a> [<a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>]
+      <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ae9fb5"><em>Mach. Learn.: Sci. Technol.</em> 7, 055025 (2026)</a> [<a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>]
    </li>
 
    <li>
