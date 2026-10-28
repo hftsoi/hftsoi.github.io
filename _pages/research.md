@@ -54,6 +54,42 @@ author_profile: false
 
 <div class="research-item">
   <div class="research-item-image">
+    <img src="/images/spikepid_lif.gif">
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/spikepid1.png" style="width: 320px; height: auto; display: inline-block;">
+      <img src="/images/spikepid2.png" style="width: 224px; height: auto; display: inline-block;">
+    </div>
+  </div>
+  <div class="research-item-text">
+    <h3>SpikePID: Real-Time Neuromorphic Cluster Counting in Future Drift Chambers</h3>
+    <p>
+      Cluster counting (\(dN/dx\)) measures discrete ionization occurrences along a charged particle track traversing a gaseous medium and is currently being proposed to serve particle identification (PID) in next-generation drift chambers, as it is expected to offer higher separation power than the traditional approach based on the ionization energy loss measurement (\(dE/dx\)), which has intrinsically larger statistical fluctuations. However, measuring \(dN/dx\) in drift chambers proposed for future colliders requires high-resolution waveforms, which result in very large data rates. Running the reconstruction at the edge would drastically reduce the bandwidth required to transmit data off the detector. In this paper, we introduce SpikePID, a neuromorphic computing approach applying spiking neural networks (SNNs) to this task due to their inherently sparse computing and processing nature. We show that an SNN with only 529 parameters improves the kaon-pion separation power by 17% over the traditional derivative-based method and by 4% over an MLP that has \(8.6\times\) more parameters. When synthesized to an FPGA, it uses an order of magnitude fewer resources than the MLP, and has an inference latency compatible with the constraints of future collider experiments, making the SNN an excellent algorithmic candidate for real-time data readout in future drift chambers.
+    </p>
+  </div>
+</div>
+
+
+<div class="research-item">
+  <div class="research-item-image">
+    <img src="/images/superjepa1.png">
+    <div style="display: flex; gap: 5px; margin-top: 5px;">
+      <img src="/images/superjepa2.png" style="width: 350px; height: auto; display: inline-block;">
+    </div>
+  </div>
+  <div class="research-item-text">
+    <h3>SuperJEPA: Pretraining with a Supervision-Augmented Joint-Embedding Predictive Architecture for High Energy Physics</h3>
+    <p>
+      Foundation models often obtain powerful results through very large unlabeled training datasets that dwarf available labeled datasets in size, but high energy physics already provides large samples of high-fidelity labeled simulation. We therefore ask whether self-supervised objectives improve over supervised pretraining alone when large labeled samples already exist. We introduce SuperJEPA, a joint-embedding predictive architecture augmented with a supervised objective, and find improved downstream jet-tagging performance across multiple tasks, model sizes, and pretraining dataset sizes. The gains persist for both frozen and fine-tuned encoders, motivating predictive self-supervision in future large-scale particle-physics foundation models.
+    </p>
+    <p>
+      <strong>Paper:</strong> <a href="https://arxiv.org/abs/2610.36121">arXiv:2610.36121</a>
+    </p>
+  </div>
+</div>
+
+
+<div class="research-item">
+  <div class="research-item-image">
     <img src="/images/ssl-emd1.png">
     <div style="margin-top: 5px;">
       <img src="/images/ssl-emd2.png">

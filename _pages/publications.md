@@ -58,15 +58,27 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2026</div>
 <ol class="rev-ol" reversed start="15" markdown="1">
    <li>
+      <strong>SuperJEPA: Pretraining with a Supervision-Augmented Joint-Embedding Predictive Architecture for High Energy Physics</strong><br>
+      <span class="grey">Dylan Rankin,</span> <u>Ho Fung Tsoi</u><br>
+      <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2610.36121">arXiv:2610.36121</a>]
+   </li>
+
+   <li>
+      <strong>SpikePID: Real-Time Neuromorphic Cluster Counting in Future Drift Chambers</strong><br>
+      <u>Ho Fung Tsoi</u><span class="grey">, <span class="grey">Kam Wai Lai,</span>, Dylan Rankin</span><br>
+      <em>manuscript in preparation</em>
+   </li>
+
+   <li>
       <strong>Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
-      <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2609.17738">arXiv:2609.17738</a>]
+      <em>ML4PS 2026</em> [<a href="https://arxiv.org/abs/2609.17738">arXiv:2609.17738</a>]
    </li>
 
    <li>
       <strong>Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays</strong><br>
       <u>Ho Fung Tsoi</u><span class="grey">, Alex Yang, Luis Felipe Gutierrez Zagazeta, Shion Chen, Dylan Rankin</span><br>
-      <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2609.17726">arXiv:2609.17726</a>]
+      <em>ML4PS 2026</em> [<a href="https://arxiv.org/abs/2609.17726">arXiv:2609.17726</a>]
    </li>
 
    <li>
@@ -82,19 +94,7 @@ Listed below are selected publications to which I was a primary author. I also c
    </li>
 
    <li>
-      <strong>SparsePixels++: Scalable Sparse Convolution on FPGAs</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Philip Harris</span><br>
-      <em>manuscript in preparation</em>
-   </li>
-
-   <li>
-      <strong>SpikePID: Neuromorphic Cluster Counting for \(dN/dx\) in Future Drift Chambers</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, <span class="grey">Kam Wai Lai,</span>, Dylan Rankin</span><br>
-      <em>manuscript in preparation</em>
-   </li>
-
-   <li>
-      <strong>Unsupervised Anomaly Detection for Real-Time Data Acquisition in the CMS Experiment at the Large Hadron Collider</strong><br>
+      <strong>Anomaly Detection in the CMS Level-1 Trigger in Run 3</strong><br>
       <span class="grey">CMS Collaboration</span><br>
       <em>manuscript in preparation</em> [<a href="https://cds.cern.ch/record/2967864?ln=en">CMS-PAS-MLG-25-001</a>]
    </li>
