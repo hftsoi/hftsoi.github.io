@@ -58,49 +58,49 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2026</div>
 <ol class="rev-ol" reversed start="15" markdown="1">
    <li>
-      <strong>SuperJEPA: Pretraining with a Supervision-Augmented Joint-Embedding Predictive Architecture for High Energy Physics</strong><br>
-      <span class="grey">Dylan Rankin,</span> <u>Ho Fung Tsoi</u><br>
+      SuperJEPA: Pretraining with a Supervision-Augmented Joint-Embedding Predictive Architecture for High Energy Physics<br>
+      <span class="grey">Dylan Rankin,</span> <strong><u>Ho Fung Tsoi</u></strong><br>
       <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2610.36121">arXiv:2610.36121</a>]
    </li>
 
    <li>
-      <strong>SpikePID: Real-Time Neuromorphic Cluster Counting in Future Drift Chambers</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, <span class="grey">Kam Wai Lai,</span>, Dylan Rankin</span><br>
+      SpikePID: Real-Time Neuromorphic Cluster Counting in Future Drift Chambers<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, <span class="grey">Kam Wai Lai,</span>, Dylan Rankin</span><br>
       <em>manuscript in preparation</em>
    </li>
 
    <li>
-      <strong>Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
+      Similarity Pairing with Energy Mover's Distance for Self-Supervised Pre-Training at the LHC<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Dylan Rankin</span><br>
       <em>ML4PS 2026</em> [<a href="https://arxiv.org/abs/2609.17738">arXiv:2609.17738</a>]
    </li>
 
    <li>
-      <strong>Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Alex Yang, Luis Felipe Gutierrez Zagazeta, Shion Chen, Dylan Rankin</span><br>
+      Self-Supervised Learning for Robust Resonance Mass Regression in Cascade Decays<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Alex Yang, Luis Felipe Gutierrez Zagazeta, Shion Chen, Dylan Rankin</span><br>
       <em>ML4PS 2026</em> [<a href="https://arxiv.org/abs/2609.17726">arXiv:2609.17726</a>]
    </li>
 
    <li>
-      <strong>jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin</span><br>
+      jBOT: Semantic Jet Representation Clustering Emerges from Self-Distillation<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Dylan Rankin</span><br>
       <a href="https://scipost.org/10.21468/SciPostPhys.21.3.053"><em>SciPost Phys.</em> 21, 053 (2026)</a> [<a href="https://arxiv.org/abs/2601.11719">arXiv:2601.11719</a>]
    </li>
 
    <li>
-      <strong>Machine Can Automatically Discover Parametric Functions to Model HEP Data</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles</span><br>
+      Machine Can Automatically Discover Parametric Functions to Model HEP Data<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles</span><br>
       <em>Proceedings of ICHEP 2026</em> [<a href="https://arxiv.org/abs/2607.19750">arXiv:2607.19750</a>]
    </li>
 
    <li>
-      <strong>Anomaly Detection in the CMS Level-1 Trigger in Run 3</strong><br>
+      Anomaly Detection in the CMS Level-1 Trigger in Run 3<br>
       <span class="grey">CMS Collaboration</span><br>
       <em>manuscript in preparation</em> [<a href="https://cds.cern.ch/record/2967864?ln=en">CMS-PAS-MLG-25-001</a>]
    </li>
 
    <li>
-      <strong>Performance of the ATLAS Tau Trigger in Run 3</strong><br>
+      Performance of the ATLAS Tau Trigger in Run 3<br>
       <span class="grey">ATLAS Collaboration</span><br>
       <em>manuscript in preparation</em>
    </li>
@@ -109,13 +109,13 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2025</div>
 <ol class="rev-ol" reversed start="7" markdown="1">
    <li>
-      <strong>SparsePixels: Efficient Convolution for Sparse Data on FPGAs</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span><br>
+      SparsePixels: Efficient Convolution for Sparse Data on FPGAs<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Dylan Rankin, Vladimir Loncar, Philip Harris</span><br>
       <a href="https://iopscience.iop.org/article/10.1088/2632-2153/ae9fb5"><em>Mach. Learn.: Sci. Technol.</em> 7, 055025 (2026)</a> [<a href="https://arxiv.org/abs/2512.06208">arXiv:2512.06208</a>]
    </li>
 
    <li>
-      <strong>hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware</strong><br>
+      hls4ml: A Flexible, Open-Source Platform for Deep Learning Acceleration on Reconfigurable Hardware<br>
       <span class="grey">Jan-Frederik Schulte et al.</span><br>
       <a href="https://doi.org/10.1145/3801979"><em>ACM Trans. Reconf. Tech. Syst.</em> 19, 2 (2026)</a> [<a href="https://arxiv.org/abs/2512.01463">arXiv:2512.01463</a>]
    </li>
@@ -124,19 +124,19 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2024</div>
 <ol class="rev-ol" reversed start="5" markdown="1">
    <li>
-      <strong>SymbolFit: Automatic Parametric Modeling with Symbolic Regression</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles, Vladimir Loncar</span><br>
+      SymbolFit: Automatic Parametric Modeling with Symbolic Regression<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Dylan Rankin, Cecile Caillol, Miles Cranmer, Sridhara Dasu, Javier Duarte, Philip Harris, Elliot Lipeles, Vladimir Loncar</span><br>
       <a href="https://link.springer.com/article/10.1007/s41781-025-00140-9"><em>Comput Softw Big Sci</em> 9, 12 (2025)</a> [<a href="https://arxiv.org/abs/2411.09851">arXiv:2411.09851</a>]
    </li>
 
    <li>
-      <strong>SymbolNet: Neural Symbolic Regression with Adaptive Dynamic Pruning for Compression</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Vladimir Loncar, Sridhara Dasu, Philip Harris</span><br>
+      SymbolNet: Neural Symbolic Regression with Adaptive Dynamic Pruning for Compression<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Vladimir Loncar, Sridhara Dasu, Philip Harris</span><br>
       <a href="https://iopscience.iop.org/article/10.1088/2632-2153/adaad8"><em>Mach. Learn.: Sci. Technol.</em> 6, 015021 (2025)</a> [<a href="https://arxiv.org/abs/2401.09949">arXiv:2401.09949</a>]
    </li>
 
    <li>
-      <strong>Search for Exotic Decays of the Higgs Boson to a Pair of Pseudoscalars in the \(\mu\mu\)bb and \(\tau\tau\)bb Final States</strong><br>
+      Search for Exotic Decays of the Higgs Boson to a Pair of Pseudoscalars in the \(\mu\mu\)bb and \(\tau\tau\)bb Final States<br>
       <span class="grey">CMS Collaboration</span><br>
       <a href="https://link.springer.com/article/10.1140/epjc/s10052-024-12727-4"><em>Eur. Phys. J. C</em> 84, 493 (2024)</a> [<a href="https://arxiv.org/abs/2402.13358">arXiv:2402.13358</a>]
    </li>
@@ -145,8 +145,8 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2023</div>
 <ol class="rev-ol" reversed start="2" markdown="1">
    <li>
-      <strong>Symbolic Regression on FPGAs for Fast Machine Learning Inference</strong><br>
-      <u>Ho Fung Tsoi</u><span class="grey">, Adrian Alan Pol, Vladimir Loncar, Ekaterina Govorkova, Miles Cranmer, Sridhara Dasu, Peter Elmer, Philip Harris, Isobel Ojalvo, Maurizio Pierini</span><br>
+      Symbolic Regression on FPGAs for Fast Machine Learning Inference<br>
+      <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, Adrian Alan Pol, Vladimir Loncar, Ekaterina Govorkova, Miles Cranmer, Sridhara Dasu, Peter Elmer, Philip Harris, Isobel Ojalvo, Maurizio Pierini</span><br>
       <a href="https://doi.org/10.1051/epjconf/202429509036"><em>EPJ Web of Conferences</em> 295, 09036 (2024)</a> [<a href="https://arxiv.org/abs/2305.04099">arXiv:2305.04099</a>]
    </li>
 </ol>
@@ -154,7 +154,7 @@ Listed below are selected publications to which I was a primary author. I also c
 <div class="pub-year">2021</div>
 <ol class="rev-ol" reversed start="1" markdown="1">
    <li>
-      <strong>The Phase-2 Upgrade of the CMS Data Acquisition and High Level Trigger</strong><br>
+      The Phase-2 Upgrade of the CMS Data Acquisition and High Level Trigger<br>
       <span class="grey">CMS Collaboration</span><br>
       <a href="https://cds.cern.ch/record/2759072"><em>CMS Technical Design Report</em> (2021), CERN-LHCC-2021-007, CMS-TDR-022</a>
    </li>

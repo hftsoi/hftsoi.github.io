@@ -128,7 +128,7 @@ author_profile: false
   <li>
     <div class="talk-header">
       <span class="talk-left">
-        <strong>2024 CMS Thesis Award Ceremony Talk (CMS Week)</strong> — CERN, Switzerland
+        <strong>2024 CMS Thesis Award Ceremony (CMS Week)</strong> — CERN, Switzerland
       </span>
       <span class="talk-date">Oct 2025</span>
     </div>
@@ -156,12 +156,26 @@ author_profile: false
   <li>
     <div class="talk-header">
       <span class="talk-left">
-        <strong>High-energy physics seminar</strong> — UPenn; U.Washington; Fermilab
+        <strong>High Energy Physics seminar</strong> — UPenn, USA
       </span>
-      <span class="talk-date">2023, 2024</span>
+      <span class="talk-date">Mar 2024</span>
     </div>
     <div class="talk-title">
       <a href="https://live-sas-physics.pantheon.sas.upenn.edu/events/high-energy-theory-seminar-search-exotic-higgs-boson-decays-cms-and-fast-machine-learning">
+        Search for Exotic Higgs Boson Decays with CMS and Fast Machine Learning Solutions for the LHC
+      </a>
+    </div>
+  </li>
+
+  <li>
+    <div class="talk-header">
+      <span class="talk-left">
+        <strong>High Energy Physics seminar</strong> — U.Washington Seattle, USA
+      </span>
+      <span class="talk-date">Mar 2024</span>
+    </div>
+    <div class="talk-title">
+      <a href="https://phys.washington.edu/events/2024-03-05/search-exotic-higgs-boson-decays-cms-and-fast-machine-learning-solutions-lhc">
         Search for Exotic Higgs Boson Decays with CMS and Fast Machine Learning Solutions for the LHC
       </a>
     </div>
@@ -190,6 +204,18 @@ author_profile: false
     </div>
     <div class="talk-title">
       Anomaly Detection – CICADA: Status, Plans, and Prospects for Phase-2
+    </div>
+  </li>
+
+  <li>
+    <div class="talk-header">
+      <span class="talk-left">
+        <strong>High Energy Physics seminar</strong> — Fermilab, USA
+      </span>
+      <span class="talk-date">Nov 2023</span>
+    </div>
+    <div class="talk-title">
+      Search for Exotic Higgs Boson Decays with CMS and Fast Machine Learning Solutions for the LHC
     </div>
   </li>
 
