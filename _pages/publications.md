@@ -66,7 +66,7 @@ Listed below are selected publications to which I was a primary author. I also c
    <li>
       SpikePID: Real-Time Neuromorphic Cluster Counting in Future Drift Chambers<br>
       <strong><u>Ho Fung Tsoi</u></strong><span class="grey">, <span class="grey">Kam Wai Lai,</span>, Dylan Rankin</span><br>
-      <em>manuscript in preparation</em>
+      <em>Submitted for review</em> [<a href="https://arxiv.org/abs/2611.00104">arXiv:2611.00104</a>]
    </li>
 
    <li>
