@@ -41,7 +41,7 @@ author_profile: false
 }
 /* optional: style the numbers */
 .rev-ol > li::marker {
-  font-weight: 600;
+  font-weight: 400;
 }
 </style>
 
