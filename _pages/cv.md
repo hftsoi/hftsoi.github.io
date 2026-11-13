@@ -30,6 +30,19 @@ author_profile: false
 
 <p>
   <a href="/files/HoFungTsoiCV.pdf" target="_blank">
-    CV [updated Nov 2026]
+    CV<span id="cv-updated"></span>
   </a>
 </p>
+
+<script>
+  // Show the month/year of the last commit that changed the CV PDF.
+  fetch("https://api.github.com/repos/{{ site.repository }}/commits?path=files/HoFungTsoiCV.pdf&per_page=1")
+    .then(r => r.ok ? r.json() : Promise.reject(r.status))
+    .then(commits => {
+      if (!commits.length) return;
+      const d = new Date(commits[0].commit.committer.date);
+      const label = d.toLocaleString("en-US", { month: "short", year: "numeric" });
+      document.getElementById("cv-updated").textContent = ` [updated ${label}]`;
+    })
+    .catch(() => {});
+</script>
