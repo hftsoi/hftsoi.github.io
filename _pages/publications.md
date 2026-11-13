@@ -100,9 +100,9 @@ Listed below are selected publications to which I was a primary author. I also c
    </li>
 
    <li>
-      Performance of the ATLAS Tau Trigger in Run 3<br>
+      Performance of the ATLAS Tau Trigger in Run 3 and Future Prospects<br>
       <span class="grey">ATLAS Collaboration</span><br>
-      <em>manuscript in preparation</em>
+      [<a href="https://arxiv.org/abs/2611.16454">arXiv:2611.16454</a>]
    </li>
 </ol>
 
